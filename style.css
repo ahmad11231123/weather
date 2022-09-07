@@ -10,9 +10,9 @@
     image-resolution:initial;
     background-color:#008b8b;
 }
-/*.nav_bar h1{
-    color: chocolate;
-}*/
+.nav_bar .logo{
+    background-image: url(images/logo2.png);
+}
 .nav_links{
     background-color:darkorange;
 }
