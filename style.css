@@ -9,10 +9,12 @@
     text-align: left;
     image-resolution:initial;
     background-color:#008b8b;
-}
-.nav_bar .logo{
     background-image: url(images/logo2.png);
 }
+/*
+.nav_bar .logo{
+    background-image: url(images/logo2.png);
+}*/
 .nav_links{
     background-color:darkorange;
 }
