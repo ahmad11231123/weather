@@ -6,10 +6,10 @@
     text-decoration: none;
 }
 .logo{
-    text-align: left;
+    text-align: center;
     image-resolution:initial;
     background-color:#008b8b;
-    background-image: url(images/logo2.png);
+    /*background-image: url(images/logo2.png);*/
 }
 /*
 .nav_bar .logo{
