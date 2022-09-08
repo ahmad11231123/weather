@@ -27,6 +27,9 @@
     justify-content: space-around;
     color:darkslategrey;
 }
+.nav_links  a:hover{
+    color: #fff;
+}
 .intro h3{
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     font-size: 1rem;
